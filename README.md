@@ -6,6 +6,7 @@
 ### KNN Algorithm (classification)
 1. 新的未知數據進來時由離他最近的k個鄰居投票決定屬於哪類
 2. 屬於classification不是clustering
+
 ![image](https://user-images.githubusercontent.com/79447902/114180472-d1327b00-9972-11eb-8bf2-8b148094129c.png)
 
 ### KNN Algorithm (Regression)
