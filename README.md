@@ -11,4 +11,5 @@
 ### KNN Algorithm (Regression)
 1. 找出和x最相近的k個點
 2. 這k個點的y值平均就會是x對應的y
+
 ![image](https://user-images.githubusercontent.com/79447902/114180585-f32bfd80-9972-11eb-8e07-2ab52029455c.png)
